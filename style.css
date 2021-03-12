@@ -1,0 +1,14 @@
+body {
+  background: lightgray;
+  text-align: center;
+  
+}
+
+main {
+  height: 300px;
+  width: 600px;
+  margin: auto;
+  background: lightyellow;
+  border-radius: 15px;
+  border: black solid 1px;
+}
